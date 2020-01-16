@@ -18,6 +18,7 @@ namespace ConsoleApp1
           
 
 
+
             Console.WriteLine(q.dequeue());
             q.enqueue(5);
             Console.WriteLine(q.dequeue());
